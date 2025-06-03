@@ -12,7 +12,7 @@
 **B.Sc Computer Technology**  
 📍 *Kongunadu Arts and Science College, Coimbatore*  
 🗓️ *2022 - 2025*  
-📊 **Percentage:** 77.2%
+📊 **Percentage:** 80.2%
 
 ---
 
