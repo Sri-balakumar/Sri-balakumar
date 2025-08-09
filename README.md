@@ -32,8 +32,11 @@
 - VB.NET Framework
 
 ### 🗃️ Database Systems
-- Oracle
-- Microsoft Access
+- MySQL
+
+### 🛠️ Tools
+- Microsoft Office
+- GitHub
 
 ### 🖥️ Operating Systems
 - Windows
