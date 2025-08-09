@@ -12,21 +12,21 @@
 **B.Sc Computer Technology**  
 📍 *Kongunadu Arts and Science College, Coimbatore*  
 🗓️ *2022 - 2025*  
-📊 **Percentage:** 80.2%
+📊 **Percentage:** 79.5%
 
 ---
 
 ## 💻 Technical Skills
 
 ### 👨‍💻 Programming Languages
-- Python 🐍
-- Java ☕
-- C++
+- Python
+- Java
 
 ### 🌐 Web Technologies
 - HTML5
 - CSS3
 - JavaScript
+- React.js
 
 ### 🧰 Frameworks
 - VB.NET Framework
