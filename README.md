@@ -37,6 +37,8 @@
 ### 🛠️ Tools
 - Microsoft Office
 - GitHub
+- Rest APIs
+- AWS
 
 ### 🖥️ Operating Systems
 - Windows
