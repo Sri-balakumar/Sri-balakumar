@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Programming Languages
 - Python
-- Java
+- PHP
 
 ### 🌐 Web Technologies
 - HTML5
