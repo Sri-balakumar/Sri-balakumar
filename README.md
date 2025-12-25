@@ -38,6 +38,8 @@
 - Microsoft Office
 - GitHub
 - Rest APIs
+
+### ☁️ Tools
 - AWS
 
 ### 🖥️ Operating Systems
