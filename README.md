@@ -1,8 +1,19 @@
-<h1 align="center">👋 Hello! I'm Sri Balakumar</h1>
+<h1 align="center">👋 Hi, I'm Sri Balakumar</h1>
 
 <p align="center">
-  <b>A Computer Technology graduate with skills in web development and programming.</b><br>
-  Welcome to my GitHub profile!
+  🚀 Computer Technology Graduate | 💻 Full Stack Developer | 🌐 Web Enthusiast  
+</p>
+
+<p align="center">
+  <a href="https://sri-balakumar.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:sribalakumar04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sri-balakumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -10,73 +21,68 @@
 ## 🎓 Education
 
 **B.Sc Computer Technology**  
-📍 *Kongunadu Arts and Science College, Coimbatore*  
-🗓️ *2022 - 2025*  
-📊 **Percentage:** 79.5%
+📍 Kongunadu Arts and Science College, Coimbatore  
+🗓️ 2022 - 2025  
+📊 Percentage: **79.5%**
 
 ---
 
-## 💻 Technical Skills
+## 💡 About Me
 
-### 👨‍💻 Programming Languages
-- Python
-- PHP
+- 🔭 Currently building modern web applications  
+- 🌱 Exploring Full Stack Development & Cloud Technologies  
+- 💡 Passionate about creating responsive and user-friendly websites  
+- 🚀 Interested in React, APIs, and scalable backend systems  
 
-### 🌐 Web Technologies
-- HTML5
-- CSS3
-- JavaScript
-- React.js
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming
+`Python` • `PHP`
+
+### 🌐 Frontend
+`HTML5` • `CSS3` • `JavaScript` • `React.js`
 
 ### 🧰 Frameworks
-- VB.NET Framework
+`VB.NET`
 
-### 🗃️ Database Systems
-- MySQL
+### 🗃️ Database
+`MySQL`
 
-### 🛠️ Tools
-- Microsoft Office
-- GitHub
-- Rest APIs
+### ☁️ Cloud & Tools
+`AWS` • `GitHub` • `REST APIs` • `Microsoft Office`
 
-### ☁️ Tools
-- AWS
+### 🖥️ Operating System
+`Windows`
 
-### 🖥️ Operating Systems
-- Windows
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sri-balakumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-balakumar&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sri-balakumar&bg_color=1e1e1e&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-<p align="center">
-  <a href="tel:+917092090133">
-    <img src="https://img.shields.io/badge/Phone-7092090133-blue?style=for-the-badge&logo=telephone&logoColor=white" alt="Phone Badge"/>
-  </a>
-  <a href="mailto:sribalakumar04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sribalakumar04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sri-balakumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sri%20Balakumar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+📱 Phone: +91 70920 90133  
+📧 Email: sribalakumar04@gmail.com  
+🌐 Portfolio: https://sri-balakumar.github.io/portfolio/  
+🔗 LinkedIn: https://www.linkedin.com/in/sri-balakumar/
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sri-balakumar&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  ⭐ If you like my work, consider giving a star to my repositories!
 </p>
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-balakumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sri-balakumar&bg_color=1e1e1e&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-
