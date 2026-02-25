@@ -37,17 +37,15 @@ Through my projects and portfolio work, I focus on:
 - 🛠️ Developing applications using React, PHP, and MySQL  
 - 📈 Continuously improving my software development skills  
 
-I am eager to contribute to real-world projects and grow within a professional software development environment.
-
 ---
 
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming
-`Python` • `PHP` • `JavaScript`
+`Python` • `PHP`
 
 ### 🌐 Web Technologies
-`HTML5` • `CSS3` • `React.js`
+`HTML5` • `CSS3` • `JavaScript` • `React.js`
 
 ### 🗃️ Database
 `MySQL`
