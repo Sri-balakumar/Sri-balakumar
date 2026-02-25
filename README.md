@@ -1,18 +1,18 @@
 <h1 align="center">👋 Hi, I'm Sri Balakumar</h1>
 
 <p align="center">
-  🚀 Computer Technology Graduate | 💻 Full Stack Developer | 🌐 Web Enthusiast  
+  🚀 Computer Technology Graduate | 💻 Junior Software Engineer  
 </p>
 
 <p align="center">
-  <a href="https://sri-balakumar.github.io/portfolio/" target="_blank">
+  <a href="https://sri-balakumar.github.io/portfolio/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:sribalakumar04@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/sri-balakumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/sri-balakumar-r-04b0a5281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sri_Balakumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -23,35 +23,37 @@
 **B.Sc Computer Technology**  
 📍 Kongunadu Arts and Science College, Coimbatore  
 🗓️ 2022 - 2025  
-📊 Percentage: **79.5%**
+📊 **CGPA: 7.9**
 
 ---
 
 ## 💡 About Me
 
-- 🔭 Currently building modern web applications  
-- 🌱 Exploring Full Stack Development & Cloud Technologies  
-- 💡 Passionate about creating responsive and user-friendly websites  
-- 🚀 Interested in React, APIs, and scalable backend systems  
+I am a motivated Junior Software Engineer passionate about building efficient and user-friendly applications.
+
+Through my projects and portfolio work, I focus on:
+
+- ⚡ Writing clean and maintainable code  
+- 🛠️ Developing applications using React, PHP, and MySQL  
+- 📈 Continuously improving my software development skills  
+
+I am eager to contribute to real-world projects and grow within a professional software development environment.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming
-`Python` • `PHP`
+`Python` • `PHP` • `JavaScript`
 
-### 🌐 Frontend
-`HTML5` • `CSS3` • `JavaScript` • `React.js`
-
-### 🧰 Frameworks
-`VB.NET`
+### 🌐 Web Technologies
+`HTML5` • `CSS3` • `React.js`
 
 ### 🗃️ Database
 `MySQL`
 
-### ☁️ Cloud & Tools
-`AWS` • `GitHub` • `REST APIs` • `Microsoft Office`
+### 🛠️ Tools
+`GitHub` • `REST APIs` • `Microsoft Office`
 
 ### 🖥️ Operating System
 `Windows`
@@ -79,7 +81,7 @@
 📱 Phone: +91 70920 90133  
 📧 Email: sribalakumar04@gmail.com  
 🌐 Portfolio: https://sri-balakumar.github.io/portfolio/  
-🔗 LinkedIn: https://www.linkedin.com/in/sri-balakumar/
+🔗 LinkedIn: https://www.linkedin.com/in/sri-balakumar-r-04b0a5281/
 
 ---
 
