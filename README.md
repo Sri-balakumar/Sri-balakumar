@@ -20,15 +20,7 @@
 
 ## 💡 About Me
 
-I am a motivated Computer Technology graduate currently working as a **Software Engineer (Odoo & Application Developer)**.
-
-* 🔧 Hands-on experience in **Odoo ERP customization** using Python and ORM
-* ⚙️ Skilled in building backend logic, workflows, and business applications
-* 📱 Developing **React Native mobile applications** integrated with Odoo backend
-* 🔗 Experience in working with **REST APIs** for real-time data synchronization
-* 🗃️ Strong foundation in **MySQL and PostgreSQL databases**
-
-I am eager to grow in a challenging software development role and continuously improve my technical expertise.
+I am a motivated Computer Technology graduate currently working as a Software Engineer (Odoo & Application Developer) at Alphalize. I have hands-on experience in Python, web development, and MySQL, along with practical exposure to Odoo ERP customization. I have built both academic and real-world projects using Python, HTML, CSS, JavaScript, and React Native. I am seeking to grow in a challenging software development role where I can enhance my technical and problem-solving skills.
 
 ---
 
@@ -105,8 +97,11 @@ I am eager to grow in a challenging software development role and continuously i
 ## 📫 Contact Me
 
 📱 Phone: +91 70920 90133
+
 📧 Email: [sribalakumar04@gmail.com](mailto:sribalakumar04@gmail.com)
+
 🌐 Portfolio: https://sri-balakumar.github.io/portfolio/
+
 🔗 LinkedIn: https://www.linkedin.com/in/sri-balakumar-r-04b0a5281/
 
 ---
