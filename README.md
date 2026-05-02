@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sri Balakumar</h1>
 
 <p align="center">
-  🚀 Computer Technology Graduate | 💻 Junior Software Engineer  
+  🚀 Computer Technology Graduate | 💻 Software Engineer  
 </p>
 
 <p align="center">
@@ -18,43 +18,71 @@
 
 ---
 
-## 🎓 Education
+## 💡 About Me
 
-**B.Sc Computer Technology**  
-📍 Kongunadu Arts and Science College, Coimbatore  
-🗓️ 2022 - 2025  
-📊 **CGPA: 7.9**
+I am a motivated Computer Technology graduate currently working as a **Software Engineer (Odoo & Application Developer)**.
+
+* 🔧 Hands-on experience in **Odoo ERP customization** using Python and ORM
+* ⚙️ Skilled in building backend logic, workflows, and business applications
+* 📱 Developing **React Native mobile applications** integrated with Odoo backend
+* 🔗 Experience in working with **REST APIs** for real-time data synchronization
+* 🗃️ Strong foundation in **MySQL and PostgreSQL databases**
+
+I am eager to grow in a challenging software development role and continuously improve my technical expertise.
 
 ---
 
-## 💡 About Me
+## 🎓 Education
 
-I am a motivated Junior Software Engineer passionate about building efficient and user-friendly applications.
+**B.Sc Computer Technology**
+📍 Kongunadu Arts and Science College, Coimbatore
+🗓️ 2022 - 2025
+📊 **Percentage: 79.5%**
 
-Through my projects and portfolio work, I focus on:
+---
 
-- ⚡ Writing clean and maintainable code  
-- 🛠️ Developing applications using React, PHP, and MySQL  
-- 📈 Continuously improving my software development skills  
+## 💼 Work Experience
+
+**Software Engineer — Odoo & Application Developer**
+🏢 Alphalize | 📍 Kollam, Kerala
+🗓️ Jan 2026 – Present
+
+* 🔧 Developing and customizing Odoo ERP modules using Python and ORM
+* ⚙️ Building backend logic and automated workflows
+* 📱 Developing React Native mobile apps integrated with Odoo
+* 🔗 Integrating REST APIs for seamless data synchronization
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming
-`Python` • `PHP`
+### 👨‍💻 Programming Languages
 
-### 🌐 Web Technologies
-`HTML5` • `CSS3` • `JavaScript` • `React.js`
+`Python`
 
-### 🗃️ Database
-`MySQL`
+### ⚙️ ERP & Frameworks
 
-### 🛠️ Tools
+`Odoo (ORM, QWeb, XML)`
+
+### 🌐 Web & Mobile Technologies
+
+`HTML` • `CSS` • `JavaScript` • `React Native`
+
+### 🗃️ Database Management
+
+`MySQL` • `PostgreSQL`
+
+### 🔧 Tools & Platforms
+
 `GitHub` • `REST APIs` • `Microsoft Office`
 
 ### 🖥️ Operating System
+
 `Windows`
+
+### 🤝 Soft Skills
+
+`Communication` • `Time Management` • `Teamwork`
 
 ---
 
@@ -76,9 +104,9 @@ Through my projects and portfolio work, I focus on:
 
 ## 📫 Contact Me
 
-📱 Phone: +91 70920 90133  
-📧 Email: sribalakumar04@gmail.com  
-🌐 Portfolio: https://sri-balakumar.github.io/portfolio/  
+📱 Phone: +91 70920 90133
+📧 Email: [sribalakumar04@gmail.com](mailto:sribalakumar04@gmail.com)
+🌐 Portfolio: https://sri-balakumar.github.io/portfolio/
 🔗 LinkedIn: https://www.linkedin.com/in/sri-balakumar-r-04b0a5281/
 
 ---
